@@ -4,6 +4,7 @@
 
 #### 🛠 Hardware:
 - [Discrete OpAmp](https://github.com/AleDedor/Discrete_OpAmp): A fully working three stages opamp, based on SOT363 discrete bjts and nmos.
+- [Dummy audio amplifier](https://github.com/AleDedor/Dummy-Audio-amplifier): A simple audio amplifier designed to get familiarity with the main issues of the audio-world.
 #### 💻 Embedded:
 - [PIC16F684 - Clock and Thermometer](https://github.com/AleDedor/PIC16F_Clock_Thermometer): A cute and simple digital Clock and Thermometer based on PIC16F microcontroller, coded in Assembly language.
 #### 🎓 University projects (Politecnico di Milano, EE) :
